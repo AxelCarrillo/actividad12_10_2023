@@ -1,0 +1,3 @@
+id_contacto,nombre,primer_apellido,segundo_apellido,email,telefono
+0,string,boot,dejah,string@gmail.com,7751112233
+3,Axel,Carrillo,Rocha,axel@gmail.com,7752143596
